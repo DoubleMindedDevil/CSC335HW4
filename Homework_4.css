@@ -1,0 +1,7 @@
+/* Put your css in here */
+
+ body { background-color: white }
+ h1 { text-align: center }
+   .button { border: thin solid; }
+span { padding: 1px; }
+li { padding-top: 2px; padding-bottom: 2px; }
